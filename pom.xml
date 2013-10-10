@@ -16,6 +16,10 @@
 
   <dependencies>
     <dependency>
+      <!--
+       Pls download and mvn install it yourself 
+       https://code.google.com/p/caldav4j/source/checkout
+      -->
       <groupId>org.osaf</groupId>
       <artifactId>caldav4j</artifactId>
       <version>0.8-SNAPSHOT</version>

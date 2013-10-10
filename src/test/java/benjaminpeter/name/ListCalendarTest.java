@@ -35,7 +35,7 @@ public class ListCalendarTest {
   public void testList() throws CalDAV4JException
   {
     HttpClient httpClient = new HttpClient();
-    // I tried it with zimbra - I had no luck with google
+    // I tried it with zimbra - but I had no luck using google calendar
     httpClient.getHostConfiguration().setHost("CALDAVHOST", 443, "https");
     String username = "username";
     UsernamePasswordCredentials httpCredentials = new UsernamePasswordCredentials(username, "secret");
