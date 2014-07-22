@@ -22,6 +22,6 @@ https://code.google.com/p/caldav4j/source/checkout
 
 You can simply try:
 
-$ svn checkout http://caldav4j.googlecode.com/svn/trunk
-$ cd trunk
-$ mvn -Dmaven.test.skip=true install
+    $ svn checkout http://caldav4j.googlecode.com/svn/trunk
+    $ cd trunk
+    $ mvn -Dmaven.test.skip=true install
