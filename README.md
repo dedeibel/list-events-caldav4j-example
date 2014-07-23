@@ -16,7 +16,7 @@ Configure ./src/test/java/benjaminpeter/name/ListCalendarTest.java
 
 ## Dependencies: ##
 
-*caldav4j 0.8-SNAPSHOT*, best ist to install it on yourself
+*caldav4j 0.8-SNAPSHOT*, best is to install it on yourself
 
 https://code.google.com/p/caldav4j/source/checkout
 
